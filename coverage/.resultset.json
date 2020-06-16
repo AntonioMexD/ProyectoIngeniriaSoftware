@@ -1,7 +1,7 @@
 {
   "Cucumber Features": {
     "coverage": {
-      "C:/Users/ASUS/Documents/Proyecto Ing Soft/VersionesAnteriores/clone/ProyectoIngeniriaSoftware/app.rb": {
+      "/Users/carlos/Documents/Carlos/Ingenieria de Software/Proyecto 2/ProyectoIngeniriaSoftware/app.rb": {
         "lines": [
           1,
           1,
@@ -10,7 +10,7 @@
           1,
           null,
           1,
-          347,
+          370,
           null,
           null,
           1,
@@ -28,8 +28,8 @@
           2,
           null,
           null,
-          null,
-          null,
+          1,
+          0,
           null,
           null,
           1,
@@ -38,7 +38,6 @@
           null,
           null,
           1,
-          0,
           0,
           null,
           null,
@@ -54,7 +53,7 @@
           null
         ]
       },
-      "C:/Users/ASUS/Documents/Proyecto Ing Soft/VersionesAnteriores/clone/ProyectoIngeniriaSoftware/lib/TorosVacas.rb": {
+      "/Users/carlos/Documents/Carlos/Ingenieria de Software/Proyecto 2/ProyectoIngeniriaSoftware/lib/TorosVacas.rb": {
         "lines": [
           1,
           null,
@@ -174,7 +173,7 @@
           null
         ]
       },
-      "C:/Users/ASUS/Documents/Proyecto Ing Soft/VersionesAnteriores/clone/ProyectoIngeniriaSoftware/lib/cronometro.rb": {
+      "/Users/carlos/Documents/Carlos/Ingenieria de Software/Proyecto 2/ProyectoIngeniriaSoftware/lib/cronometro.rb": {
         "lines": [
           1,
           1,
@@ -189,7 +188,7 @@
           null
         ]
       },
-      "C:/Users/ASUS/Documents/Proyecto Ing Soft/VersionesAnteriores/clone/ProyectoIngeniriaSoftware/lib/jugador.rb": {
+      "/Users/carlos/Documents/Carlos/Ingenieria de Software/Proyecto 2/ProyectoIngeniriaSoftware/lib/jugador.rb": {
         "lines": [
           1,
           1,
@@ -227,11 +226,11 @@
           null
         ]
       },
-      "C:/Users/ASUS/Documents/Proyecto Ing Soft/VersionesAnteriores/clone/ProyectoIngeniriaSoftware/lib/jugadores.rb": {
+      "/Users/carlos/Documents/Carlos/Ingenieria de Software/Proyecto 2/ProyectoIngeniriaSoftware/lib/jugadores.rb": {
         "lines": [
           1,
           1,
-          347,
+          370,
           null,
           1,
           0,
@@ -259,7 +258,7 @@
           null
         ]
       },
-      "C:/Users/ASUS/Documents/Proyecto Ing Soft/VersionesAnteriores/clone/ProyectoIngeniriaSoftware/features/step_definitions/adivinar_steps.rb": {
+      "/Users/carlos/Documents/Carlos/Ingenieria de Software/Proyecto 2/ProyectoIngeniriaSoftware/features/step_definitions/adivinar_steps.rb": {
         "lines": [
           1,
           1,
@@ -274,7 +273,7 @@
           null
         ]
       },
-      "C:/Users/ASUS/Documents/Proyecto Ing Soft/VersionesAnteriores/clone/ProyectoIngeniriaSoftware/features/step_definitions/codigoSecreto_steps.rb": {
+      "/Users/carlos/Documents/Carlos/Ingenieria de Software/Proyecto 2/ProyectoIngeniriaSoftware/features/step_definitions/codigoSecreto_steps.rb": {
         "lines": [
           1,
           1,
@@ -302,7 +301,7 @@
           null
         ]
       },
-      "C:/Users/ASUS/Documents/Proyecto Ing Soft/VersionesAnteriores/clone/ProyectoIngeniriaSoftware/features/step_definitions/dificultad_steps.rb": {
+      "/Users/carlos/Documents/Carlos/Ingenieria de Software/Proyecto 2/ProyectoIngeniriaSoftware/features/step_definitions/dificultad_steps.rb": {
         "lines": [
           1,
           3,
@@ -321,7 +320,7 @@
           null
         ]
       },
-      "C:/Users/ASUS/Documents/Proyecto Ing Soft/VersionesAnteriores/clone/ProyectoIngeniriaSoftware/features/step_definitions/generarCodigoAleatorio_steps.rb": {
+      "/Users/carlos/Documents/Carlos/Ingenieria de Software/Proyecto 2/ProyectoIngeniriaSoftware/features/step_definitions/generarCodigoAleatorio_steps.rb": {
         "lines": [
           1,
           1,
@@ -332,7 +331,7 @@
           null
         ]
       },
-      "C:/Users/ASUS/Documents/Proyecto Ing Soft/VersionesAnteriores/clone/ProyectoIngeniriaSoftware/features/step_definitions/resultadoJuegoGano_steps.rb": {
+      "/Users/carlos/Documents/Carlos/Ingenieria de Software/Proyecto 2/ProyectoIngeniriaSoftware/features/step_definitions/resultadoJuegoGano_steps.rb": {
         "lines": [
           1,
           1,
@@ -343,7 +342,7 @@
           null
         ]
       },
-      "C:/Users/ASUS/Documents/Proyecto Ing Soft/VersionesAnteriores/clone/ProyectoIngeniriaSoftware/features/step_definitions/resultadoJuegoPerdio_steps.rb": {
+      "/Users/carlos/Documents/Carlos/Ingenieria de Software/Proyecto 2/ProyectoIngeniriaSoftware/features/step_definitions/resultadoJuegoPerdio_steps.rb": {
         "lines": [
           1,
           1,
@@ -354,7 +353,7 @@
           null
         ]
       },
-      "C:/Users/ASUS/Documents/Proyecto Ing Soft/VersionesAnteriores/clone/ProyectoIngeniriaSoftware/features/step_definitions/template_steps.rb": {
+      "/Users/carlos/Documents/Carlos/Ingenieria de Software/Proyecto 2/ProyectoIngeniriaSoftware/features/step_definitions/template_steps.rb": {
         "lines": [
           1,
           0,
@@ -397,11 +396,11 @@
         ]
       }
     },
-    "timestamp": 1592293812
+    "timestamp": 1592295090
   },
   "RSpec": {
     "coverage": {
-      "C:/Users/ASUS/Documents/Proyecto Ing Soft/VersionesAnteriores/clone/ProyectoIngeniriaSoftware/spec/TorosVacas_spec.rb": {
+      "/Users/carlos/Documents/Carlos/Ingenieria de Software/Proyecto 2/ProyectoIngeniriaSoftware/spec/TorosVacas_spec.rb": {
         "lines": [
           null,
           1,
@@ -497,7 +496,7 @@
           null
         ]
       },
-      "C:/Users/ASUS/Documents/Proyecto Ing Soft/VersionesAnteriores/clone/ProyectoIngeniriaSoftware/lib/TorosVacas.rb": {
+      "/Users/carlos/Documents/Carlos/Ingenieria de Software/Proyecto 2/ProyectoIngeniriaSoftware/lib/TorosVacas.rb": {
         "lines": [
           1,
           null,
@@ -617,7 +616,7 @@
           null
         ]
       },
-      "C:/Users/ASUS/Documents/Proyecto Ing Soft/VersionesAnteriores/clone/ProyectoIngeniriaSoftware/spec/cronometro_spec.rb": {
+      "/Users/carlos/Documents/Carlos/Ingenieria de Software/Proyecto 2/ProyectoIngeniriaSoftware/spec/cronometro_spec.rb": {
         "lines": [
           1,
           null,
@@ -633,7 +632,7 @@
           null
         ]
       },
-      "C:/Users/ASUS/Documents/Proyecto Ing Soft/VersionesAnteriores/clone/ProyectoIngeniriaSoftware/lib/cronometro.rb": {
+      "/Users/carlos/Documents/Carlos/Ingenieria de Software/Proyecto 2/ProyectoIngeniriaSoftware/lib/cronometro.rb": {
         "lines": [
           1,
           1,
@@ -648,7 +647,7 @@
           null
         ]
       },
-      "C:/Users/ASUS/Documents/Proyecto Ing Soft/VersionesAnteriores/clone/ProyectoIngeniriaSoftware/spec/jugador_spec.rb": {
+      "/Users/carlos/Documents/Carlos/Ingenieria de Software/Proyecto 2/ProyectoIngeniriaSoftware/spec/jugador_spec.rb": {
         "lines": [
           1,
           null,
@@ -680,7 +679,7 @@
           null
         ]
       },
-      "C:/Users/ASUS/Documents/Proyecto Ing Soft/VersionesAnteriores/clone/ProyectoIngeniriaSoftware/lib/jugador.rb": {
+      "/Users/carlos/Documents/Carlos/Ingenieria de Software/Proyecto 2/ProyectoIngeniriaSoftware/lib/jugador.rb": {
         "lines": [
           1,
           1,
@@ -718,7 +717,7 @@
           null
         ]
       },
-      "C:/Users/ASUS/Documents/Proyecto Ing Soft/VersionesAnteriores/clone/ProyectoIngeniriaSoftware/spec/jugadores_spec.rb": {
+      "/Users/carlos/Documents/Carlos/Ingenieria de Software/Proyecto 2/ProyectoIngeniriaSoftware/spec/jugadores_spec.rb": {
         "lines": [
           1,
           1,
@@ -751,7 +750,7 @@
           null
         ]
       },
-      "C:/Users/ASUS/Documents/Proyecto Ing Soft/VersionesAnteriores/clone/ProyectoIngeniriaSoftware/lib/jugadores.rb": {
+      "/Users/carlos/Documents/Carlos/Ingenieria de Software/Proyecto 2/ProyectoIngeniriaSoftware/lib/jugadores.rb": {
         "lines": [
           1,
           1,
@@ -784,6 +783,6 @@
         ]
       }
     },
-    "timestamp": 1592293817
+    "timestamp": 1592295086
   }
 }
